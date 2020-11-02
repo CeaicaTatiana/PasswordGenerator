@@ -36,3 +36,12 @@ body {
 .label {
   font-weight: bold;
 }
+
+.character-amount-container {
+  display: flex;
+  align-items: center;
+}
+
+.number-input {
+  width: 2rem;
+}
